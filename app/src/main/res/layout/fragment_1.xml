@@ -4,10 +4,9 @@
     android:id="@+id/fragment_1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E64A19"
+    android:background="@drawable/a1"
     tools:context=".fragments.Fragment1">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/text_view_1"
         android:layout_width="match_parent"
